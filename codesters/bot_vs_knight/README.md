@@ -1,4 +1,4 @@
-# Knight and Robot Game
+# Bot VS Knight
 
 ## Description
 
