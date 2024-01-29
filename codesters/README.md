@@ -20,7 +20,7 @@ git clone https://github.com/your-username/codesters-python.git
 4. Use the code as a reference while working on your Codesters projects or learning Python programming.
 
 ## Code Structure
-The structure of the code within each project or example directory is designed to be clear and comprehensible. Each file generally follows the format:
+The structure of the code within each project or example directory is designed to be clear and comprehensible. 
 Feel free to explore the code, experiment with it, and adapt it for your own learning and projects.
 
 ## Projects
