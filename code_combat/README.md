@@ -19,19 +19,7 @@ git clone https://github.com/your-username/codecombat-python.git
 4. Use the code as a reference while solving similar challenges on CodeCombat.
 
 ## Code Structure
-The structure of the code within each level directory is designed to be concise and focused on solving the specific challenge. Each file generally follows the format:
-
-# CodeCombat Level: Level Name
-# Solution by: Your Name
-
-# Description of the challenge
-# ...
-
-# Python code solution
-# ...
-
-# Additional comments or explanations
-# ...
+The structure of the code within each level directory is designed to be concise and focused on solving the specific challenge. 
 
 Feel free to explore the code and adapt it for your learning purposes.
 
