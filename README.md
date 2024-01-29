@@ -3,10 +3,12 @@
 ## Description
 This repository serves as a comprehensive collection of Python code examples and projects covering various educational platforms and game development libraries. The included code is organized into sections for Codesters, CodeCombat, and PyGame, providing valuable resources for learning and exploring Python programming in different contexts.
 
-## Introduction
+### Codesters
+
+#### Introduction
 Codesters is an educational platform designed to teach programming to students using a block-based coding interface combined with Python programming. This section of the repository focuses on Python code solutions and projects created within the Codesters environment.
 
-## Getting Started
+#### Getting Started
 1. Clone the repository to your local machine:
 
 git clone https://github.com/your-username/python-code-repo.git
