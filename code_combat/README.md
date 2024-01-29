@@ -23,7 +23,7 @@ The structure of the code within each level directory is designed to be concise 
 
 Feel free to explore the code and adapt it for your learning purposes.
 
-# Contributing
+## Contributing
 If you would like to contribute to this repository, please follow these guidelines:
 
 1. Fork the repository to your GitHub account.
